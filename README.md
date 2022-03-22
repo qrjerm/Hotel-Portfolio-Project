@@ -1,6 +1,6 @@
 # Jeremy-Portfolio-Projects
 
-# Project 1: Building a dashboard with PowerBI to present to stakeholders
+# [Project 1: Building a dashboard with PowerBI to present to stakeholders] (https://github.com/qrjerm/hotel_project)
 * Created a sample dashboard in PowerBI using SQL queries to answer business questions:
 * "Is our revenue growing by year?"
 * "Should we increase our parking lot size?"
