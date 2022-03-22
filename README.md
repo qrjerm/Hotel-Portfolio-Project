@@ -1,4 +1,4 @@
-# Hotel-Portfolio-Project
+#Portfolio-Projects
 
 # Project 1: Building a dashboard with PowerBI to present to stakeholders
 * Created a sample dashboard in PowerBI using SQL queries to answer business questions:
