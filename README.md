@@ -6,3 +6,4 @@
 * "Should we increase our parking lot size?"
 * "What trends can we see in the data?"
 * Sample data from [Absentdata.com](https://www.absentdata.com/hotel_revenue_historical_full/)
+* [Click here to see full project](https://qrjerm.github.io/hotel_project/)
