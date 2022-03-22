@@ -1,8 +1,8 @@
 # Jeremy-Portfolio-Projects
 
-# [Project 1: Building a dashboard with PowerBI to present to stakeholders] (https://github.com/qrjerm/hotel_project)
+# [Project 1: Building a dashboard with PowerBI to present to stakeholders](https://github.com/qrjerm/hotel_project)
 * Created a sample dashboard in PowerBI using SQL queries to answer business questions:
 * "Is our revenue growing by year?"
 * "Should we increase our parking lot size?"
 * "What trends can we see in the data?"
-* Sample data from [Absentdata.com] (https://www.absentdata.com/hotel_revenue_historical_full/)
+* Sample data from [Absentdata.com](https://www.absentdata.com/hotel_revenue_historical_full/)
