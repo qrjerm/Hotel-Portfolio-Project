@@ -14,4 +14,4 @@
 * Statistics from the game are free and accessible on https://cod.tracker.gg/modern-warfare
 * In this project we use python to scrape data from the website to create our own dashboard for visualization and insights
 * [Click here to see completed Dashboard (Pdf)](https://github.com/qrjerm/cod_project/blob/main/GameStatsDashboard.pdf)
-# [Click here to see the Jupyter Notebook with all the code used in this project!](https://github.com/qrjerm/cod_project/blob/main/FinalVersionCCT.ipynb)
+* Click here to see the Jupyter Notebook with all the code used in this project!](https://github.com/qrjerm/cod_project/blob/main/FinalVersionCCT.ipynb)
