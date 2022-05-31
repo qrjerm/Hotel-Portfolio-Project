@@ -10,7 +10,7 @@
 * [Click here to see full project](https://qrjerm.github.io/hotel_project/)
 
 
-# [Project 2: Webscraping gaming data with Python to produce a Dashboard for insights](https://qrjerm.github.io/cod_project/)
+# [Project 2: Webscraping gaming data with Python to produce a Dashboard for visualization](https://qrjerm.github.io/cod_project/)
 * Call of Duty: Modern Warfare is a First Person Shooter game for PC, Xbox and Playstation
 * Statistics from the game are free and accessible on https://cod.tracker.gg/modern-warfare
 * In this project we use python to scrape data from the website to create our own dashboard for visualization and insights
